@@ -1,0 +1,68 @@
+[
+      {
+         "artist":"Arcade Fire",
+         "album":"Reflektor",
+         "url":"spotify:album:37xl28qGX45H01dsex3nUx",
+         "message":"Listen to this, you'll love it!"
+      },
+      {
+         "artist":"Muse",
+         "album":"The Resistance",
+         "url":"spotify:album:0eFHYz8NmK75zSplL5qlfM",
+         "message":"Not their best work, but some tracks rock."
+      },
+      {
+         "artist":"Foo Fighters",
+         "album":"In Your Honour",
+         "url":"spotify:album:02jqf49ws9bcTvXLPGtjbT",
+         "message":"Another great album"
+      },
+      {
+         "artist":"Muse",
+         "album":"Black Holes and Revolutions",
+         "url":"spotify:album:0lw68yx3MhKflWFqCsGkIs",
+         "message":"Some cracking tunes"
+      },
+      {
+         "artist":"Evanescence",
+         "album":"Fallen",
+         "url":"spotify:album:5ozEqFzXMZyJkfekXLkUUo",
+         "message":"One day she'll be my wife, enjoy"
+      },
+      {
+         "artist":"Blur",
+         "album":"The Best OF",
+         "url":"spotify:album:1bgkxe4t0HNeLn9rhrx79x",
+         "message":"One of Britain's finest"
+      },
+      {
+         "artist":"Chemical Brothers",
+         "album":"Push The Button",
+         "url":"spotify:album:715rku55lldqdw9WiEuPgi",
+         "message":"Get your dancing shoes on..."
+      },
+      {
+         "artist":"Cold Play",
+         "album":"Parachutes",
+         "url":"spotify:album:6ZG5lRT77aJ3btmArcykra",
+         "message":"They're alright really."
+      },
+      {
+         "artist":"Deadmou5",
+         "album":"4x4=12",
+         "url":"spotify:track:7q3aKYrhCbTnxdRZ6xmkC6",
+         "message":"Crank it up to eleven"
+      },
+      {
+         "artist":"Depeche Mode",
+         "album":"Playing The Angel",
+         "url":"spotify:album:5QvVLyLdcK4vnaPEKg7jtO",
+         "message":"They've still got it."
+      },
+      {
+         "artist":"Django Django",
+         "album":"Django Django",
+         "url":"spotify:album:3pqPOPqLgIwLaE4ZuVhYlg",
+         "message":"A quirky little number"
+      }
+   ]
